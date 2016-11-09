@@ -2,7 +2,7 @@
 to do lists, ideas, random thoughts
 
 <ol>
-<li>Find out if I need Microsoft Office</li>
+<li><strike>Find out if I need Microsoft Office</strike></li>
 <li><strike>Scan in fingerprinting form</strike></li>
 <li>Take the VA tests</li>
 <li>Explore GitHub</li>
