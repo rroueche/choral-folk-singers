@@ -12,7 +12,7 @@ to do lists, ideas, random thoughts
   <li>Read through project repos</li>
   <li>Get set up in Waffle</li>
   </ul>
-<li>Call Aaron about HSA</li>
+  <li><strike>Call Aaron about HSA</strike></li>
 <li>Try out Keybase</li>
 <li>JIRA tutorials</li>
 <li>Continue industry research</li>
