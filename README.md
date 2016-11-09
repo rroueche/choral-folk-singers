@@ -7,7 +7,7 @@ to do lists, ideas, random thoughts
 <li>Take the VA tests</li>
 <li>Explore GitHub</li>
   <ul>
-  <li><a target="_blank" href="https://github.com/adhocteam/adhocteam.github.io/wiki/Adding-your-profile">Add bio to website</a></li>
+  <li><strike><a target="_blank" href="https://github.com/adhocteam/adhocteam.github.io/wiki/Adding-your-profile">Add bio to website</a></strike></li>
   <li>Other intro tutorials</li>
   <li>Read through project repos</li>
   <li>Get set up in Waffle</li>
