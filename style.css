@@ -46,30 +46,30 @@ Nav
   justify-content: flex-start;
   align-content: flex-start;
   padding: 0 0 0 0;
-  margin: 1.2em 0 0 1.2em;
+  margin: 2em 0 2em 2em;
   height: 3em;
 }
 
 .nav_component {
   padding: 0 0 0 0;
-  margin: 0 1em 0 0;
+  margin: 0 3em 0 0;
 }
 
 .nav_component a {
   color: #035454;
-  font-size: 1.5em;
+  font-size: 2.5em;
   text-decoration: none;
 }
 
 .nav_component a:active {
   color: #008080;
-  font-size: 1.5em;
+  font-size: 2.5em;
   text-decoration: underline;
 }
 
 .nav_component a:hover {
   color: #008080;
-  font-size: 2em;
+  font-size: 2.8em;
   text-decoration: none;
 }
 
@@ -89,19 +89,19 @@ Main Page
 
 .page_body {
   padding: 0 0 0 0;
-  margin: 0 0 0 1.2em;
+  margin: 0 0 0 2;
 }
 
 .site_title {
   padding: 0 0 0 0;
-  margin: 0 0 2em 0;
+  margin: 0 0 .5em 0;
   font-size: 7em;
 }
 
 .page_title {
   padding: 0 0 0 0;
   margin: 0 0 2em 0;
-  font-size: 5em;
+  font-size: 1em;
 }
 
 .page_content {
