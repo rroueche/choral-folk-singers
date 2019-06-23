@@ -6,3 +6,8 @@ body {
   background-size: cover;
   background-color: #ddd8d8;
 }
+
+.photo attribution {
+  position: absolute;
+  right: 0;
+  bottom: 0;}
