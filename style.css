@@ -89,20 +89,25 @@ Main Page
 -
 */
 
-.site_title {
+.page_body {
   padding: 0 0 0 0;
   margin: 0 0 0 .7em;
+}
+
+.site_title {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
   font-size: 7em;
 }
 
 .page_title {
   padding: 0 0 0 0;
-  margin: 0 0 0 .7em;
+  margin: 0 0 0 0;
 }
 
 .page_content {
   padding: 0 0 0 0;
-  margin: 0 0 0 .7em;
+  margin: 0 0 0 0;
   max-width: 1000px;
   font-size: 2.2em;
 }
