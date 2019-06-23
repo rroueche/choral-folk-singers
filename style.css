@@ -59,19 +59,19 @@ Nav
 
 .nav_component a {
   color: #035454;
-  font-size: 2em;
+  font-size: 1.5em;
   text-decoration: none;
 }
 
 .nav_component a:active  {
   color: #008080;
-  font-size: 2em;
+  font-size: 1.5em;
   text-decoration: underline;
 }
 
 .nav_component a:hover {
   color: #008080;
-  font-size: 2.2em;
+  font-size: 2em;
   text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ Main Page
 .site_title {
   padding: 0 0 0 0;
   margin: 0 0 0 .7em;
-  font-size: 10em;
+  font-size: 7em;
 }
 
 .page_title {
@@ -103,8 +103,8 @@ Main Page
 .page_content {
   padding: 0 0 0 0;
   margin: 0 0 0 .7em;
-  max-width: 600px;
-  font-size: 2.5em;
+  max-width: 1000px;
+  font-size: 2.2em;
 }
 
 a {
