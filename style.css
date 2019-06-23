@@ -1,4 +1,8 @@
-.background {
-	background-size: cover;
-	min-height: 100%;
+body {
+  background-image: url(evelyn-mostrom-59210-unsplash.jpg);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #ddd8d8;
 }
