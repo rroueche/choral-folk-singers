@@ -37,25 +37,25 @@ body {
 
 a {
   color: #035454;
-  size: 1em;
+  font-size: 1em;
   text-decoration: none;
 }
 
 a:hover {
   color: #008080;
-  size: 2em;
+  font-size: 2em;
   text-decoration: none;
 }
 
 a:active {
   color: #035454;
-  size: 1em;
+  font-size: 1em;
   text-decoration: underline;
 }
 
 a:visited {
   color: #035454;
-  size: 1em;
+  font-size: 1em;
   text-decoration: none;
 }
 
