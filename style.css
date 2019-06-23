@@ -21,9 +21,41 @@ body {
   margin: .7em 0 0 .7em;
 }
 
-.nav_item {
+.nav_component {
   padding: 0 0 0 0;
   margin: 0 .5em 0 0;
+}
+
+.nav_item {
+  font
+  size
+  color
+  hover
+  no underline
+}
+
+a {
+  color: #035454;
+  size: 1em;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #008080;
+  size: 2em;
+  text-decoration: none;
+}
+
+a:active {
+  color: #035454;
+  size: 1em;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #035454;
+  size: 1em;
+  text-decoration: none;
 }
 
 .site_title {
@@ -39,5 +71,5 @@ body {
 .page_content {
   padding: 0 0 0 0;
   margin: 0 0 0 .7em;
-
+  max-width: 600px;
 }
