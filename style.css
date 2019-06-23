@@ -51,7 +51,7 @@ Nav
 
 .nav_component {
   padding: 0 0 0 0;
-  margin: 0 .7em 0 0;
+  margin: 0 1em 0 0;
 }
 
 .nav_component a {
@@ -93,13 +93,13 @@ Main Page
 
 .site_title {
   padding: 0 0 0 0;
-  margin: 0 0 0 .7;
+  margin: 0 0 0 2em;
   font-size: 7em;
 }
 
 .page_title {
   padding: 0 0 0 0;
-  margin: 0 0 0 .7;
+  margin: 0 0 0 2em;
 }
 
 .page_content {
