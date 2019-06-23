@@ -51,16 +51,11 @@ Nav
 .nav_component {
   padding: 0 0 0 0;
   margin: 0 .5em 0 0;
+  height: 3em;
 }
 
-/*.nav_item {
-  font
-  size
-  color
-  hover
-  no underline
+.nav_item {
 }
-*/
 
 .nav_component a {
   color: #035454;
@@ -108,4 +103,22 @@ Main Page
   padding: 0 0 0 0;
   margin: 0 0 0 .7em;
   max-width: 600px;
+}
+
+a {
+  color: ;
+  font-size: ;
+  text-decoration: ;
+}
+
+a:active  {
+  color: ;
+  font-size: ;
+  text-decoration: ;
+}
+
+a:hover {
+  color: ;
+  font-size: ;
+  text-decoration: ;
 }
