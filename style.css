@@ -23,7 +23,8 @@ body {
 .photo_attribution {
   position: absolute;
   right: 0;
-  bottom: 0;}
+  bottom: 0;
+}
 
 /*
 -
@@ -60,7 +61,7 @@ Nav
   text-decoration: none;
 }
 
-.nav_component a:active  {
+.nav_component a:active {
   color: #008080;
   font-size: 1.5em;
   text-decoration: underline;
