@@ -47,7 +47,7 @@ a:hover {
   text-decoration: none;
 }
 
-a:active {
+.active_page {
   color: #008080;
   font-size: 2em;
   text-decoration: underline;
