@@ -45,16 +45,13 @@ Nav
   justify-content: flex-start;
   align-content: flex-start;
   padding: 0 0 0 0;
-  margin: .7em 0 0 .7em;
+  margin: 1.2em 0 0 1.2em;
+  height: 3em
 }
 
 .nav_component {
   padding: 0 0 0 0;
-  margin: 0 .5em 0 0;
-  height: 3em;
-}
-
-.nav_item {
+  margin: 0 .7em 0 0;
 }
 
 .nav_component a {
@@ -91,18 +88,18 @@ Main Page
 
 .page_body {
   padding: 0 0 0 0;
-  margin: 0 0 0 .7em;
+  margin: 0 0 0 1.2em;
 }
 
 .site_title {
   padding: 0 0 0 0;
-  margin: 0 0 0 0;
+  margin: 0 0 0 .7;
   font-size: 7em;
 }
 
 .page_title {
   padding: 0 0 0 0;
-  margin: 0 0 0 0;
+  margin: 0 0 0 .7;
 }
 
 .page_content {
